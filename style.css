@@ -1,0 +1,30 @@
+body {
+    background-color: antiquewhite;
+}
+
+
+label {
+    font-family: sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+    font-family: sans-serif;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+input {
+    margin-left: 9px;
+    border-radius: 10px;
+    background-color: rgb(234, 250, 249);
+}
